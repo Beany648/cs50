@@ -19,3 +19,9 @@ def calc(a,b):
     return total
 summ = calc (4,5)
 print(summ)
+
+def sum (a,b,c):
+    total (a*b)+c
+
+age = sum (1,2,3)
+print(age)
